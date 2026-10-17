@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "karpathy",
+  "repo": "micrograd",
+  "versions": [
+    {
+      "commit": "7bc720e951fe422b8f8814aa5aa1b64121d26b4c",
+      "parsed_at": "2026-10-17T08:08:58.538003+00:00",
+      "filetree": "filetree/7bc720e951fe422b8f8814aa5aa1b64121d26b4c.nq.gz",
+      "blobs": [
+        "blob/055cf3416090fde13d37ae4420e3286a7dc9652c.nq.gz",
+        "blob/b8c1253167a27bdba9433136d76fe4c5d0503614.nq.gz",
+        "blob/fce0cac14f3852c9f407db771a90331452609d75.nq.gz",
+        "blob/866bb54c19af89964b637ad61b5ec485d9649cf9.nq.gz",
+        "blob/3d89960112452062baf36bb13d43a92028fc0f0e.nq.gz",
+        "blob/30d5d777bd5d0ee7bc91e91bd9f38c9005969f43.nq.gz",
+        "blob/9a483acf981e884d13bf94c48b90d6ff6a80efa4.nq.gz",
+        "blob/5a5e08179f6f9c2d932d8a4e6659ff685f3a2c69.nq.gz",
+        "blob/64115dfc9709b9fbaeb8345af5321e8279f04908.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/afd82cc573777421cfec2437a402539a82b70203.nq.gz",
+        "blob/e0e8e297e34f25f15cf9aa2d15c3975c34451317.nq.gz",
+        "blob/87620ac7e74efee566c6ee9d2ed7281ebafb4788.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
