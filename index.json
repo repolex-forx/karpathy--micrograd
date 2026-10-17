@@ -1,0 +1,11 @@
+{
+  "org": "karpathy",
+  "repo": "micrograd",
+  "versions": [
+    {
+      "commit": "7bc720e951fe422b8f8814aa5aa1b64121d26b4c",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:11:14.097684+00:00"
+    }
+  ]
+}
