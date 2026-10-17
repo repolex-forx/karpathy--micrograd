@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/karpathy/micrograd/commit/7bc720e951fe422b8f8814aa5aa1b64121d26b4c",
       "git:hexsha": "7bc720e951fe422b8f8814aa5aa1b64121d26b4c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
